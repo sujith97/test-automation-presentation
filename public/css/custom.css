@@ -1,0 +1,23 @@
+img.p-icon {
+	position: relative;
+	top: 32px;
+	width: 7%;
+	background: none !important;
+	border: none !important;
+	box-shadow: none !important;
+}
+
+.img {
+	width: 100%;
+}
+
+.size-check {
+	font-size: 0.9em !important;
+}
+
+span.label {
+	font-size: 0.4em !important;
+	padding: 0.5% !important;
+	position: relative;
+	top: -4px;
+}
